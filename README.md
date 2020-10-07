@@ -1,4 +1,4 @@
-# Sonic Pi Monthly Challenges
+# Sonic Pi Monthly Challenge
 Code and audio from the Sonic Pi monthly challenges.
 
 ![alt text](https://raw.githubusercontent.com/binarysweets/sonic-pi-monthly-challenge/main/SonicPiLogo-300.png "Sonic Pi Logo")
