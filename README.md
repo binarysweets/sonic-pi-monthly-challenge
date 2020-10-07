@@ -1,5 +1,5 @@
-# Sonic Pi Monthly Challenge
-Code and music from the Sonic Pi monthly challenges
+# Sonic Pi Monthly Challenges
+Code and audio from the Sonic Pi monthly challenges.
 
 ![alt text](https://raw.githubusercontent.com/binarysweets/sonic-pi-monthly-challenge/main/SonicPiLogo-300.png "Sonic Pi Logo")
 
