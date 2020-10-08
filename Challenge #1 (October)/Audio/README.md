@@ -2,3 +2,7 @@
 
 https://soundcloud.com/sc3rbnman/randomsamplefrerejaques
 ---
+
+### Binarysweets - Toad Mode ###
+https://soundcloud.com/binarysweets/toad-mode-sonic-pi-monthly-challenge-1
+---
