@@ -12,4 +12,4 @@ Instructions:
 3. Post it in the in_thread topic (link above)
 Make sure that you tell us about the sample you used and include a link to the original one, if you can.
 
-** The deadline for this one is 31st October. **
+* The deadline for this one is 31st October. *
