@@ -7,7 +7,7 @@ What can you do with just one random sample?
 
 Instructions:
 
-1. Choose a random sample that you like from Freesound here: https://freesound.org/browse/random/ 25
+1. Choose a random sample that you like from Freesound here: https://freesound.org/browse/random/
 2. Make some music, only using the sample that you have chosen in step 1. Any style, any length.
 3. Post it in the in_thread topic (link above)
 Make sure that you tell us about the sample you used and include a link to the original one, if you can.
