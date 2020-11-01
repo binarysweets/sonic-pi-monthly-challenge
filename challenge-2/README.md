@@ -1,5 +1,7 @@
 # Challenge #2 (November) - Acoustic Song Covers:
 
+![alt text](https://raw.githubusercontent.com/binarysweets/sonic-pi-monthly-challenge/main/challenge-2/challenge2-image.jpg "Challenge Image")
+
 This challenge is “Acoustic Song Covers”.
 
 Instructions:
