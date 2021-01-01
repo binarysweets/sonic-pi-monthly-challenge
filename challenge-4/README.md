@@ -13,7 +13,8 @@ https://www.rapidtables.com/convert/number/ascii-to-binary.html
 You may use the built-in synths and samples or use external samples; it’s up to you.
 The length and genre is also up to you.
 
-3. Post the code and audio links (Youtube/Soundcloud) into this topic.
+3. Post the code and audio links (Youtube/Soundcloud) into this topic:
+https://in-thread.sonic-pi.net/t/sonic-pi-monthly-challenge-4
 Tell us what text you started with for each loop, and a little about your creative process.
 
 **The deadline for this challenge is 31st January**
